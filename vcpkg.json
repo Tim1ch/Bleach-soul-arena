@@ -1,0 +1,9 @@
+{
+    "name" : "bleach-soul-arena",
+    "version" : "0.1.0",
+    "dependencies" : [
+        "sfml",
+        "box2d",
+        "boost-json"
+    ]
+}
